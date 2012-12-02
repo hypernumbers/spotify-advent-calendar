@@ -1,0 +1,97 @@
+body {
+  background: url(sp://advent/img/picture.jpg) no-repeat;
+  background-size: 100%;
+  height: 600px;
+} 
+
+.door {
+	display: none;
+	position: fixed;
+}
+
+.opendoor {
+	opacity:0.5;
+}
+
+.sp-player-button {
+	background-color: transparent;
+	border: #666 1px solid;
+	font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-style: italic;
+}
+
+[id='1'].opendoor {
+		background: url(sp://advent/img/snowflakes.jpg) -20px -20px;
+}
+[id='2'].opendoor {
+		background: url(sp://advent/img/snowflakes.jpg) -6px -25px;
+}
+[id='3'].opendoor {
+		background: url(sp://advent/img/snowflakes.jpg) -25px -1px;
+}
+[id='4'].opendoor {
+		background: url(sp://advent/img/snowflakes.jpg) -15px -10px;
+}
+[id='5'].opendoor {
+		background: url(sp://advent/img/snowflakes.jpg) -45px -19px;
+}
+[id='6'].opendoor {
+		background: url(sp://advent/img/snowflakes.jpg) -66px -64px;
+}
+[id='7'].opendoor {
+		background: url(sp://advent/img/snowflakes.jpg) -5px -60px;
+}
+[id='8'].opendoor {
+		background: url(sp://advent/img/snowflakes.jpg) -5px -25px;
+}
+[id='9'].opendoor {
+		background: url(sp://advent/img/snowflakes.jpg) -45px -45px;
+}
+[id='10'].opendoor {
+		background: url(sp://advent/img/snowflakes.jpg) -13px -45px;
+}
+[id='11'].opendoor {
+		background: url(sp://advent/img/snowflakes.jpg) -15px -36px;
+}
+[id='12'].opendoor {
+		background: url(sp://advent/img/snowflakes.jpg) -5px -20px;
+}
+[id='13'].opendoor {
+		background: url(sp://advent/img/snowflakes.jpg) -5px -22px;
+}
+[id='14'].opendoor {
+		background: url(sp://advent/img/snowflakes.jpg) -50px -12px;
+}
+[id='15'].opendoor {
+		background: url(sp://advent/img/snowflakes.jpg) -23px -10px;
+}
+[id='16'].opendoor {
+		background: url(sp://advent/img/snowflakes.jpg) -25px -40px;
+}
+[id='17'].opendoor {
+		background: url(sp://advent/img/snowflakes.jpg) -55px -11px;
+}
+[id='18'].opendoor {
+		background: url(sp://advent/img/snowflakes.jpg) -35px -10px;
+}
+[id='19'].opendoor {
+		background: url(sp://advent/img/snowflakes.jpg) -9px -16px;
+}
+[id='20'].opendoor {
+		background: url(sp://advent/img/snowflakes.jpg) -14px -10px;
+}
+[id='21'].opendoor {
+		background: url(sp://advent/img/snowflakes.jpg) -56px -26px;
+}
+[id='22'].opendoor {
+		background: url(sp://advent/img/snowflakes.jpg) -66px -35px;
+}
+[id='23'].opendoor {
+		background: url(sp://advent/img/snowflakes.jpg) -5px -1px;
+}
+[id='24'].opendoor {
+		background: url(sp://advent/img/snowflakes.jpg) -15px -26px;
+}
+[id='25'].opendoor {
+		background: url(sp://advent/img/snowflakes.jpg) -65px -76px;
+}

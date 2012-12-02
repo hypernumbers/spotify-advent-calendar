@@ -1,0 +1,18 @@
+{
+	"AppDescription": {
+		"en": "An Advent Calendar"
+	},
+	"AppIcon": {
+		"36x18": "tutorial.png"
+	},
+	"AppName": {
+		"en": "Advent Calendar"
+	},
+	"BundleIdentifier": "advent",
+	"BundleType": "Application",
+	"BundleVersion": "0.1",
+	"SupportedLanguages": [
+		"en"
+	],
+	"VendorIdentifier": "com.vixo"
+}
