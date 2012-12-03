@@ -38,9 +38,9 @@ The name of the app (which is what you search from in the search bar (``spotify:
 
 If you change the app name you will need to change it in all the spotify resource requests like: ``sp://advent/img/snowflakes.jpg`` in ``advent.css`` and ``sp://advent/s/music.js`` in ``index.html``
 
-The picture is specified in the first rule of ``advent.css`` - so to change it just save a new ``picture.jpg`` in ``./img/``
+The picture is specified in the first rule of ``advent.css``. For a quick change just save a new ``picture.jpg`` in ``./img/``
 
-The music is in ``/js/music.js``. The naughty song is the song played if your try and open a door early. At the moment it is the *Cage Against The Machine Version* of John Cage's *4'33"* (spotify:track:07aUR8QqhFOObXHRYLZ74n). You might want to change it to something else, like the original version of *4'33"* (spotify:track:5hut6G6aDUbvEj5klarYWP).
+The music is in ``/js/music.js``. The naughty song is the song played if you try and open a door early. At the moment it is the *Cage Against The Machine Version* of John Cage's *4'33"* (spotify:track:07aUR8QqhFOObXHRYLZ74n). You might want to change it to something else, like the original version of *4'33"* (spotify:track:5hut6G6aDUbvEj5klarYWP).
 
 Blah-Blah
 ---------
