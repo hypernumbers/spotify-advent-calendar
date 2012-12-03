@@ -1,5 +1,5 @@
 var songs = {
-			naughtysong: "spotify:track:07aUR8QqhFOObXHRYLZ74n", // John Cage 4'33
+			naughtysong: "spotify:track:07aUR8QqhFOObXHRYLZ74n", // John Cage 4'33 (Cage Against The Machine)
 			playlist:
 			{
 				1:  "spotify:track:1Db7Wb6zv52bo0zofQ6V8x", // Belle And Sebastian, O Come, O Come, Emmanuel
